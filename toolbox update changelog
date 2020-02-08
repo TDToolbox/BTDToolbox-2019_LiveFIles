@@ -8,3 +8,8 @@
 - Added BTD Mod loader
 - Added Settings window
 - Announcements
+- First Time User popup
+
+#1Small changes:
+- Option to remember BTDB password for the session
+- Can rename and delete project from within toolbox
