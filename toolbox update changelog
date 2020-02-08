@@ -1,19 +1,9 @@
+
 #1BTD Toolbox updated!
+- Current version number: 0.0.4
 
-
-#1Artists
-- Raptarr8
-- Zey
-#1UI Design
-- Mallis
-- Gurrenm3
-#1Discord servers
-#Lhttps://discord.gg/Yr2tYte
-#1Extras
-This project uses DotNetZip
-#Lhttps://www.nuget.org/packages/DotNetZip
-This project uses Json.NET
-#Lhttps://www.newtonsoft.com/json
-This project uses icon made by authors not mentioned in Artists
-Json Icons by
-#Lhttps://www.flaticon.com/authors/smashicons
+#1Main Changes:
+- Added update changelog
+- Improved auto-updater
+- Added BTD Mod loader
+- Announcements
