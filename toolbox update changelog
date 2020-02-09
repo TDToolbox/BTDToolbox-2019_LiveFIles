@@ -5,7 +5,7 @@
 #1Main Changes:
 - Added update changelog
 - Improved auto-updater
-- Added BTD Mod loader, NKHook, and Sprite Sheet Decompiler
+- Added BTD Mod loader
 - Added Settings window
 - Announcements
   - (Important notifications that can be changed online without needing to update)
