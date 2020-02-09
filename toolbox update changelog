@@ -5,11 +5,11 @@
 #1Main Changes:
 - Added update changelog
 - Improved auto-updater
-- Added BTD Mod loader
+- Added BTD Mod loader, NKHook, and Sprite Sheet Decompiler
 - Added Settings window
 - Announcements
   - (Important notifications that can be changed online without needing to update)
-- First Time User popup
+- Welcome message for new users
 
 #1Small changes:
 - Option to remember BTDB password for the session
