@@ -2,12 +2,11 @@
 #1BTD Toolbox updated!
 - Current version number: 0.1.0
 
-#3This is a small update to fix a couple of bugs in 0.0.9
-
 #1Main Changes:
 - A new JSON Editor with TABS!! FINALLY!!!
 - Can now autoscroll to bad json. No more trying to find it
 - Can restore previous sessions when restarting toolbox
+- Bugfix from 0.0.9 that caused toolbox to crash
 
 #1Smaller Changes:
 - Can now make new projects without having the game installed (for android users)
