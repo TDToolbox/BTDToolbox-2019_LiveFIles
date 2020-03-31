@@ -1,19 +1,17 @@
 
 #1BTD Toolbox updated!
-- Current version number: 0.1.0
+- Current version number: 0.1.1
 
 #1Main Changes:
-- A new JSON Editor with TABS!! FINALLY!!!
-- Can now autoscroll to bad json. No more trying to find it
-- Can restore previous sessions when restarting toolbox
-- Bugfix from 0.0.9 that caused toolbox to crash
+
+• Can now right click on tabs to do cool stuff
+• Middle click with mouse auto closes tabs
+• Can now "View original" for all files at the click of a button. They will be Read-Only
+• Many bug fixes!
 
 #1Smaller Changes:
-- Can now make new projects without having the game installed (for android users)
-    - To use this, when making a new project click "from Jet (no game)" 
-- Can restore modded files to their original version
-    - Just right click on them in the Jet Viewer
-    - You need to have a backup project made. A new one will automatically be made when you create your next project.
+• Removed a lot of unnecessary code. Things might seem the same but under the hood a lot is different and better
+• More support for users who dont have a game
 
 #2Side note:
 - BTD Toolbox has come a long way since it's first Alpha release, with many bugs fixed and new features added. Considering all the improvments made over time the first official release will be coming soon
