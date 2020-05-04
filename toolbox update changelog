@@ -1,11 +1,16 @@
 
 #1BTD Toolbox updated!
-- Current version number: 0.1.2
+- Current version number: 0.1.4
+
+This version comes with all the bug fixes that version 0.1.3 needed. You shouldn't have issues now, if you do please contact us and let us know.
 
 #1Main Changes:
-- Bug fixes to provide more stability
-- Toolbox will try to search for steam dir, so new users may not need to browse for their game
+- Can now browse for existing mods without issues
+- Fixed "Something went wrong with export"
+- Fixed Toolbox getting confused with which game you are playing
+- Fixed "Array out of bounds" error with the EZ Tower editor
+- "Find Subtask" and "Get this subtask number" buttons now work. (They're inside the JSON Editor when you right click)
+- Added close button to the "Find Menu" in JSON Editor
 
-#1Side note:
-- This is the first official release of BTD Toolbox!
-- Thanks again to everyone who supported the TD Toolbox team and helped us make this happen!
+#1Side Note:
+- Please let us know of any bugs fixes or quality of life improvments you want to see so we can make using toolbox a better experience.
