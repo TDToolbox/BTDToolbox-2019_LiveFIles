@@ -1,16 +1,21 @@
 
-#1BTD Toolbox updated!
-- Current version number: 0.1.4
+#1BTD Toolbox has been updated!
+- Current version number: 0.1.5
 
-This version comes with all the bug fixes that version 0.1.3 needed. You shouldn't have issues now, if you do please contact us and let us know.
+Hey guys, a ton of new stuff happened in this update. Here are the highlights:
 
 #1Main Changes:
-- Can now browse for existing mods without issues
-- Fixed "Something went wrong with export"
-- Fixed Toolbox getting confused with which game you are playing
-- Fixed "Array out of bounds" error with the EZ Tower editor
-- "Find Subtask" and "Get this subtask number" buttons now work. (They're inside the JSON Editor when you right click)
-- Added close button to the "Find Menu" in JSON Editor
+- We added a web browser and BTD Modding tutorials. You can now watch tutorials or music INSIDE toolbox
+- A new design theme
+- fixed every bug we could find. Toolbox is much stable now.
+- Added NKHook support AND a One-Click "Add New Tower" button (currently disabled until NKH is released)
+- A lot of smaller things you'll notice over time, like an "About Us" button and "Export Console Log"
+- Console Log is stored locally, so if Toolbox crashes you can find out why
+- Rewrote a good chunk of code so things should be at least a little faster
+- Way more
 
-#1Side Note:
-- Please let us know of any bugs fixes or quality of life improvments you want to see so we can make using toolbox a better experience.
+#1Special thank you:
+We've come a very long way. Thanks for being patient while we worked on Toolbox. I hope you continue to enjoy it :)
+
+
+
